@@ -1,1 +1,4 @@
 The third file for the repo.
+
+September 14th updates.
+-checking git status
